@@ -31,9 +31,10 @@ body {
     color: aquamarine;
 }
 
-/* COPYRIGHT */
+/* FOOTER */
 
-.copyright {
+.footer--copyright {
     text-align: right;
     color: gray;
+    font-size: 21px;
 }
